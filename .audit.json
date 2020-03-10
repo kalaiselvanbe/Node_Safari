@@ -1,0 +1,309 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 60
+    },
+    "auditLog": "V:\\wag-qa-js/.audit.json",
+    "files": [
+        {
+            "date": 1545221652129,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12We",
+            "hash": "98790ccfa1f81ad1aaf6dfbdcff0c825"
+        },
+        {
+            "date": 1545221891332,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12We",
+            "hash": "2c6d613607b48686e27ceb7efb2a9b59"
+        },
+        {
+            "date": 1545222792935,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12We",
+            "hash": "7d37de48425ae8c446d330b530e28aaf"
+        },
+        {
+            "date": 1545288520147,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "0ac8a1ddcab2ce59a97246a0e18e0e1d"
+        },
+        {
+            "date": 1545290092833,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "09e73064b57405cb8d45509b5b1583bb"
+        },
+        {
+            "date": 1545291245279,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "17a31b42bf660aced2c2bd0b69fced41"
+        },
+        {
+            "date": 1545291335695,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "fd64f24962575b0ccdb4dcb98f41a47b"
+        },
+        {
+            "date": 1545291401407,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "307f1fa3a0a79cff17181ecfd9b717e6"
+        },
+        {
+            "date": 1545291473095,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "6a2d887fb06797b0330b8d7c15037f38"
+        },
+        {
+            "date": 1545291572298,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "a83affdc517698dae8522bebbd8e5927"
+        },
+        {
+            "date": 1545291600835,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "a80dcbd95e62c1cfe9d5066a4b046149"
+        },
+        {
+            "date": 1545291679642,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "0f45b3abce1aed9208875f9c23c7a344"
+        },
+        {
+            "date": 1545291851231,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "e1ccba7037bbdb336a7d4c09608636d8"
+        },
+        {
+            "date": 1545291933979,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "b25cbb4d0213f821d6e4d53e5733ef89"
+        },
+        {
+            "date": 1545297525078,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "fc3b94c227ee2555a8381d9ab3275a4b"
+        },
+        {
+            "date": 1545297647224,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "9a7176a4168ec5ff9651d4250b03a27a"
+        },
+        {
+            "date": 1545297735407,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "ca219dc413fe75ff36407c002647acde"
+        },
+        {
+            "date": 1545297766378,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "c65c066e55fc2a3845453e71b18ff5fc"
+        },
+        {
+            "date": 1545303684985,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "de2706436ee1bde355df7d94d5ee348c"
+        },
+        {
+            "date": 1545304135820,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "e4e576807ef4889dcebb7f7822c35de9"
+        },
+        {
+            "date": 1545304191328,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "d7f7ec6a9aeaf7bf639ed3b0249f8df7"
+        },
+        {
+            "date": 1545304361034,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "2910d8212b98536cb90a731f8c4edf63"
+        },
+        {
+            "date": 1545304450703,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "dafce74d6608a15dac7cc2dd9bcc22f3"
+        },
+        {
+            "date": 1545304550722,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "c0b9245cb57e264663a0168aac44024b"
+        },
+        {
+            "date": 1545304638648,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "71feab1b632a6917c736c27ea4a6b346"
+        },
+        {
+            "date": 1545309222248,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Th",
+            "hash": "644e1b2ebf696b581e7e1f4a6398de72"
+        },
+        {
+            "date": 1545389262992,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Fr",
+            "hash": "76255c247ff5471dc3cf7b0565c13786"
+        },
+        {
+            "date": 1545389347410,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Fr",
+            "hash": "46f7310b4a0ed3f5a0a70d5194519c83"
+        },
+        {
+            "date": 1545389807155,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Fr",
+            "hash": "96ff05eae48967e8773650adead70d86"
+        },
+        {
+            "date": 1545389962139,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy12Fr",
+            "hash": "16208cb847d9b619a622e17d6021a950"
+        },
+        {
+            "date": 1546505790721,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "53f18b2de47c9423079c4d411d641cc3"
+        },
+        {
+            "date": 1546505870391,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "99c0805d9cd1538c138d582f7ba76334"
+        },
+        {
+            "date": 1546507050236,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "b81fe8ee3cc9752f893d2f5485e1773c"
+        },
+        {
+            "date": 1546507189340,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "aeaf4a287ecf98599a8e4f88f1982ab0"
+        },
+        {
+            "date": 1546508765369,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "705b1d5bdebeebf39d8e23400e42ecab"
+        },
+        {
+            "date": 1546508865894,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "605c59ec1fa1646a97953bac039de328"
+        },
+        {
+            "date": 1546509607000,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "22321512230890fc1aaabfa459b44103"
+        },
+        {
+            "date": 1546509713441,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "fd5a5ac19088e03a8e43de973d1f4f37"
+        },
+        {
+            "date": 1546509869664,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "576f92f0fe293cd8a82d3dfb7269f6a8"
+        },
+        {
+            "date": 1546868256941,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Mo",
+            "hash": "d567c48c79e16752001433f8e9d67ecd"
+        },
+        {
+            "date": 1546868607388,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Mo",
+            "hash": "64a07fba3a71cbdb3452752619aa7ba0"
+        },
+        {
+            "date": 1546868956555,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Mo",
+            "hash": "c0f0b33dec13a3a102e15876ad6f125f"
+        },
+        {
+            "date": 1546869269615,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Mo",
+            "hash": "dc25c7e1c346cbfffa5e9a3338523308"
+        },
+        {
+            "date": 1546869419120,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Mo",
+            "hash": "dbd8a34872ea918548d50b9bae38e90c"
+        },
+        {
+            "date": 1548937191222,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "3391b699128afe97ac1547d38f2d8cf8"
+        },
+        {
+            "date": 1548937327341,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "30cabb8af9641ac500b79609d63a9e2a"
+        },
+        {
+            "date": 1548937393486,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "eb9132d3c8bfddbd50a0a6a8a76578c7"
+        },
+        {
+            "date": 1548937884302,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "b35ec1d43c6799937810cef3c071ed14"
+        },
+        {
+            "date": 1548937979948,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "aca33651367b615ed8fd8ee455b9d13d"
+        },
+        {
+            "date": 1548938019930,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "c9793920e1dc44fe9600b16746e70603"
+        },
+        {
+            "date": 1548938319220,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "673f5a903e6c23104d35bcd7a1d22626"
+        },
+        {
+            "date": 1548938792761,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy01Th",
+            "hash": "679d333b2f290f9181a929ccaf253500"
+        },
+        {
+            "date": 1549276103338,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy02Mo",
+            "hash": "6758b3fce0b9387fa59b4a3b2761ae9a"
+        },
+        {
+            "date": 1549276211630,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy02Mo",
+            "hash": "5799468d7b64cc0cad6a3a2a0533b648"
+        },
+        {
+            "date": 1553057795309,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "3bdb5ed13b9f709dc0f231b43641f646"
+        },
+        {
+            "date": 1553057879117,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "a3df63d9f725587c7b968563d9e792f2"
+        },
+        {
+            "date": 1553057917313,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "42d2669fba6c6c88c61298fdd98c5fc9"
+        },
+        {
+            "date": 1553057946178,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "4a404c7f7fe6b58dc9f4cf9ff2a64000"
+        },
+        {
+            "date": 1553075168279,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "994bab6e2a90fcf1bda9ced4b5973ade"
+        },
+        {
+            "date": 1553075617087,
+            "name": "V:\\wag-qa-js\\CucumberHTMLReports.yyyy03We",
+            "hash": "529904ba987c271e0229dc9c8c26fc11"
+        }
+    ]
+}
