@@ -12,7 +12,7 @@
   "license": "WAG",
   "devDependencies": {
     "chai": "^4.1.2",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chromedriver": "2.35.0",
     "cucumber": "^4.0.0",
     "cucumber-pretty": "^1.4.4",
