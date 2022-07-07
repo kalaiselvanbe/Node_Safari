@@ -31,7 +31,7 @@
     "iedriver": "^3.9.2",
     "jira-client": "^6.4.1",
     "jira-reporter": "^0.1.19",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.21",
     "nightwatch-html-reporter": "^2.0.5",
     "npm-run-all": "^4.1.3",
